@@ -16,5 +16,9 @@ RUN ./configure
 RUN make
 RUN make install
 
+# Cleanup
+WORKDIR /
+RUN rm -rf /tmp/io.js
+
 CMD [ "node" ]
 
