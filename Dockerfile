@@ -12,6 +12,7 @@ RUN git clone https://github.com/iojs/io.js.git
 
 WORKDIR /tmp/io.js
 
+RUN git checkout v0.10
 RUN ./configure
 RUN make
 RUN make install
