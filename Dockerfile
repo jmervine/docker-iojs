@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y \
         curl \
         git
 
-ENV IOJS_VERSION 0.12
+ENV IOJS_VERSION 1.x
 
 WORKDIR /tmp
 RUN git clone https://github.com/iojs/io.js.git
