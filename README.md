@@ -1,10 +1,16 @@
 docker-iojs
 ===========
 
-Dockerfile for building https://github.com/iojs/io.js
+Dockerfile for building https://github.com/iojs/io.js.
 
-Build Dates
------------
+See: https://registry.hub.docker.com/u/jmervine/docker-iojs/
 
-* Tue Dec 10 00:32:00 UTC 2014
-* Tue Jan 13 18:39:47 UTC 2015
+Tags:
+-----
+
+* [`v1.0.1-release`, `latest` from io.js tag `v1.0.1-release` Dockerfile](https://github.com/jmervine/docker-iojs/blob/v1.0.1-release/Dockerfile)
+* [`v1.0.0-release` from io.js tag `v1.0.0-release` Dockerfile](https://github.com/jmervine/docker-iojs/blob/v1.0.0-release/Dockerfile)
+* [`v1.x` from io.js branch `v1.x` Dockerfile](https://github.com/jmervine/docker-iojs/blob/v1.x/Dockerfile)
+* [`v0.12` from io.js branch `v0.12` Dockerfile](https://github.com/jmervine/docker-iojs/blob/v0.12/Dockerfile)
+* [`v0.10` from io.js branch `v0.10` Dockerfile](https://github.com/jmervine/docker-iojs/blob/v0.10/Dockerfile)
+* [`master` from io.js branch `master` Dockerfile](https://github.com/jmervine/docker-iojs/blob/master/Dockerfile)
