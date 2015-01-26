@@ -1,6 +1,10 @@
 docker-iojs
 ===========
 
+I'm abandoning this now that there is an [official io.js image](https://registry.hub.docker.com/_/iojs/).
+
+----
+
 Dockerfile for building https://github.com/iojs/io.js.
 
 See: https://registry.hub.docker.com/u/jmervine/docker-iojs/
